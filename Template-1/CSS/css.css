@@ -276,7 +276,7 @@ body {
     margin: 0px 500px;
     transition: 0.3s;
 }
-@media (max-width: 767px){
+@media (max-width: 1200px){
     .portfolio input{
         justify-self: center;
     }
