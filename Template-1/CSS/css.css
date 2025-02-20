@@ -233,6 +233,12 @@ body {
     right: 0;
     z-index: -1;
 }
+@media (max-width: 1200px){
+    .service .service-content .image,
+    .service .service-content .image::before{
+        display: none;
+    }
+}
 .portfolio{
     padding: 40px 0px;
     background-color: #f6f6f6;
